@@ -2,6 +2,7 @@
 
 This project shows **how to implement a P5js sketch on the Gosai operating system** with the exemple of the dvic's [**interactive pool**](https://dvic.devinci.fr/projects/educationnal-billard). 
 The sketch will become a new **project application** using the different **drivers and devices** it needs to be **interactive** with the Augmented Reality (AR) interactive pool platform.
+
 The principle of the project is to make some **rabbits** that are going though the pool table and create an **interaction** so that the rabbit can be **killed** with a **billiard ball**.
 
 ![diagramExpetech](https://user-images.githubusercontent.com/116834424/222148372-ba872ca2-a72b-4a02-88cc-ea04149ae10b.JPG)
